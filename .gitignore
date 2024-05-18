@@ -213,3 +213,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# 프로젝트
+validation-candidate-data
