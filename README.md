@@ -1,5 +1,7 @@
 # vscode-py-template
 
+[🇬🇧](README.md) | [🇰🇷](README.kr.md) | [🇨🇳](README.zh-CN.md)
+
 환경은 MacOS, Linux 를 기준으로 합니다.
 
 ## `Makefile`
